@@ -1,0 +1,6 @@
+[submodule "back-end/WeddingBridalJavaBackend"]
+	ignore = untracked
+[submodule "front-end/admin/reacttemplate"]
+	ignore = untracked
+[submodule "front-end/user/reacttemplate"]
+	ignore = untracked
